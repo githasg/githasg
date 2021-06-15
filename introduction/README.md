@@ -1,5 +1,5 @@
 - 👋 Hello. I’m @githasg
-- 👀 I’m interested in R and Python, with an interest in maps and spatial analysis
+- 👀 I like R and Python and have an interest in maps and spatial analysis
 - 🌱 I’m also new at usihg github
 - 💞️ Thanks for stopping by!
 
